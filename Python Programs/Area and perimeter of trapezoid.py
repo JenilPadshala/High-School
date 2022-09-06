@@ -1,0 +1,7 @@
+height=float(input("What is the height?"))
+base1=float(input("What is the Base 1?"))
+base2=float(input("What is the Base 2?"))
+side1=float(input("What is the Side 1?"))
+side2=float(input("What is the Side 2?"))
+print("Area of Trapezoid:", height*(base1+base2)/2)
+print("Perimeter of Trapezoid:", side1+side2+base1+base2)

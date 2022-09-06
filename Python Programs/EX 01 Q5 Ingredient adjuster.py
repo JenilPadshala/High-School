@@ -1,0 +1,8 @@
+cookies=float(input("Enter the amount of cookies you want to make :"))
+sugar=cookies*(1.5/48)
+butter=cookies*(1/48)
+flour=cookies*(2.75/48)
+print("You'll need:")
+print("sugar= ",sugar)
+print("butter= ",butter)
+print("flour=", flour)

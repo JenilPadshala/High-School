@@ -1,0 +1,5 @@
+length=float(input("What is the length?"))
+width=float(input("What is the width?"))
+height=float(input("What is the height?"))
+print("Area of Parallelogram:", length*height)
+print("Perimeter of Parallelogram:", 2*(length + width))

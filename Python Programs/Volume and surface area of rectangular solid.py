@@ -1,0 +1,5 @@
+length=float(input("What is the length?"))
+width=float(input("What is the width?"))
+height=float(input("What is the height?"))
+print("Volume of rectangular solid:", length*width*height)
+print("Surface area of rectangular solid:", 2*((length*height)+(width*height)+(width*length)))

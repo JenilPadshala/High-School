@@ -1,0 +1,6 @@
+base=float(input("What is the base?"))
+height=float(input("What is the height?"))
+side1=float(input("What is the side 1?"))
+side2=float(input("What is the side 2?"))
+print("Area of Triangle:", base*height/2)
+print("Perimeter of Triangle:", base +side1+side2)
